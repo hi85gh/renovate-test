@@ -6,6 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
+    "axios": "0.21.0",
     "vue": "3.0.0",
     "vue-router": "4.0.2",
     "vuedraggable": "4.0.0",
