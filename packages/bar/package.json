@@ -1,0 +1,10 @@
+{
+  "name": "bar",
+  "private": true,
+  "scripts": {
+    "dev": "tsc --noEmit --watch index.ts"
+  },
+  "devDependencies": {
+    "typescript": "4.0.3"
+  }
+}
