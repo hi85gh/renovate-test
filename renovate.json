@@ -1,4 +1,3 @@
 {
-  "extends": ["config:base", ":prHourlyLimitNone"],
-  "commitMessageTopic": "{{prettyDepType}}: test :{{depName}}"
+  "extends": ["config:base", ":prHourlyLimitNone"]
 }
