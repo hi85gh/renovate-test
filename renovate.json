@@ -1,4 +1,9 @@
 {
-  "extends": ["config:base", ":prHourlyLimitNone"],
-  "commitMessageTopic": "{{prettyDepType}} {{depName}}"
+  "extends": [
+    "config:base",
+    ":prHourlyLimitNone",
+    ":semanticCommitTypeAll(chore)"
+  ],
+  "commitMessageTopic": "{{prettyDepType}} {{depName}}",
+  "semanticCommits": "enabled"
 }
