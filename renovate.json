@@ -1,7 +1,9 @@
 {
   "extends": [
     "config:base",
+    "npm:unpublishSafe",
     ":prHourlyLimitNone",
+    ":prNotPending",
     ":semanticCommitTypeAll(chore)"
   ],
   "commitMessageTopic": "{{prettyDepType}} {{depName}}",
