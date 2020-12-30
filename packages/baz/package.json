@@ -1,0 +1,7 @@
+{
+  "name": "baz",
+  "private": true,
+  "dependencies": {
+    "renovate": "24.10.4"
+  }
+}
