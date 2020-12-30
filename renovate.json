@@ -3,7 +3,6 @@
     "config:base",
     "npm:unpublishSafe",
     ":prHourlyLimitNone",
-    ":prNotPending",
     ":dependencyDashboardApproval",
     ":semanticCommitTypeAll(chore)"
   ],
