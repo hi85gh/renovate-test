@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "dayjs": "1.9.7",
-    "renovate": "24.10.4"
+    "renovate": "24.10.4",
+    "standard-version": "9.0.0"
   }
 }
