@@ -4,6 +4,7 @@
     "npm:unpublishSafe",
     ":prHourlyLimitNone",
     ":prNotPending",
+    ":dependencyDashboardApproval",
     ":semanticCommitTypeAll(chore)"
   ],
   "commitMessageTopic": "{{prettyDepType}} {{depName}}",
