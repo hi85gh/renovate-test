@@ -2,7 +2,7 @@
   "name": "baz",
   "private": true,
   "dependencies": {
-    "dayjs": "1.9.7",
+    "dayjs": "1.10.5",
     "renovate": "24.10.4",
     "standard-version": "9.0.0"
   }
